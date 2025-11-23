@@ -1,0 +1,10 @@
+"uniqueUnits":[
+{
+"name":"Patriota de élite",
+"replaces":"Infantry",
+"movement":5,
+"strength":50,
+"rangedStrength":50,
+"cost":50,
+"purchaseCost":10,
+"abilities":["Siege:200"
