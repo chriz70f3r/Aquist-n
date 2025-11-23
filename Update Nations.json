@@ -1,0 +1,10 @@
+{
+"Nations":[
+{
+"name":"Aquistán",
+"leaderName":"Leonardo Frei",
+"uniqueAbility":{
+"name":"Esplendor Aquistano",
+"description":"Cada casilla trabajada otorga +40 Producción, +20 Comida, +60 Ciencia, +200 Oro, +30 Cultura y +30 Felicidad a la ciudad."
+},
+"uniqueUnits
